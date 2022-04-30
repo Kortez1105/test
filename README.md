@@ -2,6 +2,9 @@
 
 ## second
 
-** some bold text
+**some bold text**
 
-hello my name is alex 
+hello my name is Vanya
+
+foo
+bar
